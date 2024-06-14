@@ -47,3 +47,13 @@ The project is divided into three levels of analysis: Basic, Intermediate, and A
 
 3. **Top 3 Most Ordered Pizza Types Based on Revenue for Each Pizza Category**
    - Determines the top 3 most ordered pizza types based on revenue within each pizza category.
+
+## **Conclusion**
+This project demonstrates the use of SQL for comprehensive data analysis in a business context. By following this structure, you can gain valuable insights into sales patterns, revenue generation, and product popularity. The queries provided can be modified and extended to suit different datasets and analytical requirements.
+
+## **How to Use**
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/gite123/SQL---Pizza_Sales
